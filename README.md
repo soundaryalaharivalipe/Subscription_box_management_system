@@ -43,12 +43,15 @@ The Subscription Box Management System is a comprehensive web-based application 
 **Fig 4 - Checkout Cart**
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/c93151ec-48fa-4738-b340-f3f14c43e322)
+
 **Fig 5 - PayPal Payment**
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/ae5bff6b-c9d0-4110-91ec-8748094b7cc6)
+
 **Fig 6 - Payment Success**
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/ab3d0d9f-e97d-4d4e-bd97-c713966adf77)
+
 **Fig 7 - User copy which is sent to their regsitered email**
 
 
