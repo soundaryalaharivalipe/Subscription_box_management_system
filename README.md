@@ -28,6 +28,20 @@ The Subscription Box Management System is a comprehensive web-based application 
 - **Checkout:** Proceed to checkout and complete the payment via PayPal.
 - **View Transaction Report:** After purchase, users can access detailed transaction reports from their account dashboard.
 
+## Screenshots
+![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/4b99487d-284b-4756-bbf4-ec8ff538bc94)
+
+![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/10164e37-4ceb-40f2-9703-f627b7a1965d)
+
+![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/2c7d716e-3620-4ed4-ab53-6a8bad561fbb)
+
+![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/c3949f12-fc28-45a0-8cbe-306ba5bfbe27)
+
+
+
+
+
+
 ## Contribution
 Contributions to the Subscription Box Management System are welcome. Please send pull requests or report issues through the GitHub repository to help improve the system further.
 
