@@ -30,14 +30,25 @@ The Subscription Box Management System is a comprehensive web-based application 
 
 ## Screenshots
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/4b99487d-284b-4756-bbf4-ec8ff538bc94)
+**Catalog**
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/10164e37-4ceb-40f2-9703-f627b7a1965d)
+**User Registration**
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/2c7d716e-3620-4ed4-ab53-6a8bad561fbb)
+**User Login**
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/c3949f12-fc28-45a0-8cbe-306ba5bfbe27)
+**Checkout Cart**
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/c93151ec-48fa-4738-b340-f3f14c43e322)
+
+
+![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/ae5bff6b-c9d0-4110-91ec-8748094b7cc6)
+
+![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/ab3d0d9f-e97d-4d4e-bd97-c713966adf77)
+
+
 
 
 
