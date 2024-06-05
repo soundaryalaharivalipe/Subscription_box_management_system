@@ -37,6 +37,9 @@ The Subscription Box Management System is a comprehensive web-based application 
 
 ![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/c3949f12-fc28-45a0-8cbe-306ba5bfbe27)
 
+![image](https://github.com/soundaryalaharivalipe/Subscription_box_management_system/assets/169948476/c93151ec-48fa-4738-b340-f3f14c43e322)
+
+
 
 
 
